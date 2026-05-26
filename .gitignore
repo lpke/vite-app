@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+.vite
+*.log
+.env
+.flake.local/
+.direnv
+.DS_Store
